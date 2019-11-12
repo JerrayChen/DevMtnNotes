@@ -1,4 +1,4 @@
-ctrl+shift+P in code to enable the "code" command on Mac.
+ctrl(command)+shift+P in visual studio code to enable the "code" command on Mac.
     (Windows is with code bash)
 (command line)code .
 
