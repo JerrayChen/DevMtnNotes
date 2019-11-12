@@ -18,3 +18,6 @@ Start on Github
 3. git add
 4. git commit -m "msg"
 5. git push
+
+.gitignore will ignore the files when you do git add .
+git status - you can check the status
